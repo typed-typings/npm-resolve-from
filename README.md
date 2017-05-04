@@ -1,4 +1,6 @@
 # Typed Resolve From
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-resolve-from.svg)](https://greenkeeper.io/)
 The type definition for [`resolve-from`](https://github.com/sindresorhus/resolve-from)
 
 ## LICENSE
